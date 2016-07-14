@@ -1,1 +1,0 @@
-C:\C# Examples\5.1 Understanding Data Types and Variables\5.1 Understanding Data Types and Variables\bin\Debug\5.1 Understanding Data Types and Variables.exe.config

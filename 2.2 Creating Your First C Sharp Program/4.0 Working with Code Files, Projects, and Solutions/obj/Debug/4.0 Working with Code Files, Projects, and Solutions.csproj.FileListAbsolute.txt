@@ -1,1 +1,0 @@
-C:\C# Examples\2.2 Creating Your First C Sharp Program\4.0 Working with Code Files, Projects, and Solutions\bin\Debug\4.0 Working with Code Files, Projects, and Solutions.exe.config
