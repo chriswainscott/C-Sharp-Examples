@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{678B5C6B-DFBA-4FC0-B74C-0AE23C2448E9}</ProjectGuid>
+    <ProjectGuid>{6A7648C4-F31C-425D-9258-222F67BA864A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_5._3_Understanding_Data_Types_and_Variables</RootNamespace>
-    <AssemblyName>5.3 Understanding Data Types and Variables</AssemblyName>
+    <RootNamespace>_5._2_Understanding_Data_Types_and_Variables</RootNamespace>
+    <AssemblyName>5.2 Understanding Data Types and Variables</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
